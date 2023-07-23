@@ -9,7 +9,7 @@ Deepl Limit Remover is a Chrome extension designed to bypass the translation lim
 1. Download or clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/deepl-limit-remover.git
+    git clone https://github.com/TomBerger90/Deepl-Limit-Remover.git
     ```
 
 2. Open the Chrome browser and navigate to `chrome://extensions`.
